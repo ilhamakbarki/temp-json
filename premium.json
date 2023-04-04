@@ -1,8 +1,6 @@
 {
-  "status": {
-    "code": 200,
-    "message": "success"
-  },
+  "code": 200,
+  "message": "success",
   "data": {
     "account": {
       "role": "owner"
